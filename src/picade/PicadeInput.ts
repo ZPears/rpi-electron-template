@@ -1,3 +1,5 @@
+// Provides mappings for the Picade joystick / button inputs to KeyboardEvent keyCodes.
+
 export enum PicadeInput {
   JOYSTICK_UP,
   JOYSTICK_LEFT,
